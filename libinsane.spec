@@ -17,6 +17,8 @@ BuildRequires:	meson
 BuildRequires:	pkgconfig(sane-backends)
 BuildRequires:	pkgconfig(cunit)
 BuildRequires:	valgrind
+BuildRequires:	vala
+BuildRequires:	vala-tools
 
 %description
 Libinsane is a library allowing access to image scanners. It is the
